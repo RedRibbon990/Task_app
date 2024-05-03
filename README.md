@@ -1,6 +1,6 @@
 # Task App
 
-![Preview](https://github.com/RedRibbon990/Task_app/To_Dindoing/ui.png)
+![Preview](https://github.com/RedRibbon990/Task_app/blob/d9178c45b82f578d17c30ca2a0b53f602fd372e7/To_Dindoing/ui.png)
 
 Benvenuto nell'app dei task! Questa applicazione è progettata per aiutarti a gestire i tuoi compiti quotidiani in modo efficiente e organizzato.
 
