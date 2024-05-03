@@ -1,4 +1,7 @@
+
+<h1 align="center">
 # Task App
+</h1>
 
 ![Preview](https://github.com/RedRibbon990/Task_app/blob/d9178c45b82f578d17c30ca2a0b53f602fd372e7/To_Dindoing/ui.png)
 
